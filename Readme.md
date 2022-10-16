@@ -1,6 +1,6 @@
 # Shopify Clone &nbsp; ![badge](https://img.shields.io/badge/-HTML-brightgreen) ![badge](https://img.shields.io/badge/-Tailwind%20CSS-blue) 
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://paytmclone-site.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://shopify-clone-html-tailwindcss.netlify.app/)
 
 ## Skills acquired 👨‍💻
 - How to set the property of other element wile hovering on one element using tailwind CSS.
@@ -19,4 +19,4 @@
 ![badge](https://img.shields.io/badge/Mobile-View-yellow)
 <br>
 <br>
-![](./assets/mobileview.png)
+![](./assets/mobile%20view.png)
